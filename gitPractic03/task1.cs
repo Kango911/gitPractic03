@@ -73,11 +73,5 @@ namespace GitPractise
             Console.WriteLine("5.Южная Америка");
             Console.WriteLine("6.Северная Америка");
         }
-
-        public static void Main()
-        {
-            ShowMenu();
-            GetInput();
-        }
-    }
+    }    
 }

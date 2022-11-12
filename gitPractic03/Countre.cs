@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace GitPr;
+namespace GitPractise;
 
 internal class Country
 {
@@ -12,7 +12,8 @@ internal class Country
         switch (task)
         {
             case '1':
-                program.program();
+                Task1.ShowMenu();
+                Task1.GetInput();
                 break;
             case '2':
                 break;
