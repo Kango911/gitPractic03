@@ -16,6 +16,8 @@ internal class Country
                 Task1.GetInput();
                 break;
             case '2':
+                Task2.ShowMenu();
+                Task2.GetInput();
                 break;
             case '3':
                 break;

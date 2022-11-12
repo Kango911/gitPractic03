@@ -3,7 +3,7 @@
 namespace GitPractise
 
 {
-    class Task1
+    class Task2
     {
         public static void GetInput()
         {
